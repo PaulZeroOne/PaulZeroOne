@@ -4,7 +4,7 @@
 
 ### Abhronil Paul
 
-> /'mak.si.mus blak/
+> /'ob-roh-nil/
 
 I'm a Avionics Hardware Engineer and occasionally love to express my artistic side by making high-quality designs. I'm still an undergraduate student and preparing myself for the world. I also love Physics, and I want to learn more about how the Universe works.
 
