@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="80" src="https://miro.medium.com/max/12032/1*g7fENKsVOTTfmFVu48I09Q.jpeg">
+  <img height="80" src="https://www.pinclipart.com/picdir/big/97-979159_spaceship-svg-silhouette-space-shuttle-icon-png-clipart.png">
 </p>
 
 ### Abhronil Paul
