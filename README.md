@@ -1,17 +1,14 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<p align="center">
+  <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
+</p>
 
+### Abhronil Paul
 
+> /'mak.si.mus blak/
 
-[![Abhronil's github stats](https://github-readme-stats.vercel.app/api?username=PaulZeroOne)](https://github.com/PaulZeroOne/github-readme-stats)
+I'm a Avionics Hardware Engineer and occasionally love to express my artistic side by making high-quality designs. I'm still an undergraduate student and preparing myself for the world. I also love Physics, and I want to learn more about how the Universe works.
 
-<!-- Actual text -->
+### 📫 How to reach me:
 
-You can find me on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png ()
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/abhronil-paul-6949b4173/
+- Website: [paulabhro.tech](https://paulabhro.tech/)
+- Email: [abhronilpaul@gmail.com](mailto:abhronilpaul@gmail.com)
