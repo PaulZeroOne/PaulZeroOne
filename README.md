@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="80" src="https://cdn.maximousblk.now.sh/images/max/logotype.svg">
+  <img height="80" src="https://freelinkedinbackgrounds.com/wp-content/uploads/2015/01/abstract_0006.jpg">
 </p>
 
 ### Abhronil Paul
