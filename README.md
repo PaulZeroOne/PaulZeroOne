@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="80" src="https://pbs.twimg.com/media/CikwEeyXAAAMtWk.jpg">
+  <img height="80" src="https://miro.medium.com/max/12032/1*g7fENKsVOTTfmFVu48I09Q.jpeg">
 </p>
 
 ### Abhronil Paul
