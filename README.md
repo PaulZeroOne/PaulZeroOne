@@ -12,11 +12,12 @@ I'm a Avionics Hardware Engineer and occasionally love to express my artistic si
 - SoC Design
 - IoT 
 - STK (Satellite Tool Kit)
+- VLSI design
 
 ### 🏡 Currently working on:
 - Student Lunar Rover for Singapore Space Challenge 2021
-- LiDaR based space debris removal spacecraft
-- Preparing for GRE and a Masters abroad
+- LiDaR based Space Debris Removal Spacecraft
+- Preparing for GRE 📚
 
 ### 📫 How to reach me:
 
