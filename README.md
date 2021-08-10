@@ -15,7 +15,7 @@ I'm a Avionics Hardware Engineer and occasionally love to express my artistic si
 - VLSI design
 
 ### 🏡 Currently working on:
-- Student Lunar Rover for Singapore Space Challenge 2021
+- van Allen Probes for Singapore Space Challenge 2022
 - LiDaR based Space Debris Removal Spacecraft
 - Preparing for GRE 📚
 
