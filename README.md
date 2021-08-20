@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="80" src="https://freesvg.org/img/johnny_automatic_astronaut_s_helmet.png">
+  <img height="80" src="https://www.pngall.com/wp-content/uploads/5/Vector-Astronaut-Helmet-PNG-Download-Image.png">
 </p>
 
 ### Abhronil Paul
