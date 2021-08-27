@@ -1,9 +1,9 @@
 <p align="center">
   <img height="80" src="https://www.pngall.com/wp-content/uploads/5/Vector-Astronaut-Helmet-PNG-Download-Image.png">
- </p>
- <p align="center">
-![](https://komarev.com/ghpvc/?username=PaulZeroOne&color=blueviolet)
 </p>
+
+![](https://komarev.com/ghpvc/?username=PaulZeroOne&color=blueviolet)
+
   
 ### Abhronil Paul
 
@@ -23,6 +23,6 @@ I'm a Avionics Hardware Engineer and occasionally love to express my artistic si
 - Preparing for GRE 📚
 
 ### 📫 How to reach me:
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /></img>
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 - Website: [paulabhro.tech](https://paulabhro.tech/)
 - Email: [abhronilpaul@gmail.com](mailto:abhronilpaul@gmail.com)
