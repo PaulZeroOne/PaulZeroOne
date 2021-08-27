@@ -1,9 +1,9 @@
 <p align="center">
   <img height="80" src="https://www.pngall.com/wp-content/uploads/5/Vector-Astronaut-Helmet-PNG-Download-Image.png">
 </p>
-<p align="center">
-![](https://komarev.com/ghpvc/?username=PaulZeroOne&color=blueviolet)
-</p>
+
+![](https://komarev.com/ghpvc/?username=PaulZeroOne&color=blueviolet&align=center)
+
   
 ### Abhronil Paul
 
