@@ -19,7 +19,7 @@ I'm a Avionics Hardware Engineer and occasionally love to express my artistic si
 
 ### 🏡 Currently working on:
 - van Allen Probes for Singapore Space Challenge 2022
-- LiDaR based Space Debris Removal Spacecraft
+- Star Track - Arduino Powered Star Pointer and Tracker
 - Preparing for GRE 📚
 
 ### 📫 How to reach me:
