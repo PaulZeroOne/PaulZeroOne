@@ -15,7 +15,7 @@ I'm a Avionics Hardware Engineer and occasionally love to express my artistic si
 - SoC Design
 - IoT 
 - STK (Satellite Tool Kit)
-- VLSI design
+- Schematic Design
 
 ### 🏡 Currently working on:
 - van Allen Probes for Singapore Space Challenge 2022
