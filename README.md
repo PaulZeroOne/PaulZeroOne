@@ -9,7 +9,7 @@
 
 > /'ob-roh-nil/
 
-I'm a Avionics Hardware Engineer and occasionally love to express my artistic side by making high-quality designs. I'm still an undergraduate student and preparing myself for the world. I also love Physics, and I want to learn more about how the Universe works.
+I'm a Avionics Hardware Engineer and occasionally love to express my artistic side by making high-quality designs. I'm an undergraduate student and preparing myself for the world. I also love Physics, and I want to learn more about how the Universe works.
 
 ### 🔧 What I tinker with:
 - SoC Design
@@ -18,9 +18,8 @@ I'm a Avionics Hardware Engineer and occasionally love to express my artistic si
 - Schematic Design
 
 ### 🏡 Currently working on:
-- van Allen Probes for Singapore Space Challenge 2022
+- IMC SRAM Modelling for different analog parameters
 - Star Track - Arduino Powered Star Pointer and Tracker
-- Preparing for GRE 📚
 
 ### 📫 How to reach me:
 - Website: [paulabhro.tech](https://paulabhro.tech/)
