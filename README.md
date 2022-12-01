@@ -23,5 +23,5 @@ I'm a Avionics Hardware Engineer and occasionally love to express my artistic si
 
 ### 📫 How to reach me:
 - Resume: [drive](https://drive.google.com/file/d/1Z0o3T0sx0YM0qBf2xXoqyCqIR3w-p89y/view?usp=sharing)
-- Website: [paulabhro.tech](https://paulabhro.tech/)
+- Website: [paulabhro.tech]([https://paulabhro.tech/](https://paulzeroone.github.io/Website/))
 - Email: [abhronilpaul@gmail.com](mailto:abhronilpaul@gmail.com)
